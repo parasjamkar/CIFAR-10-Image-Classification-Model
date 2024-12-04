@@ -22,6 +22,20 @@ Airplanes, Cars, Birds, Cats, Deer, Dogs, Frogs, Horses, Ships, and Trucks.
 - **Validation Metrics**: Loss and Accuracy curves show steady improvement over epochs.
 - **Model Effectiveness**: Successfully classified 10 distinct categories from the dataset.
 
+## 6. Why This Project?
+This project highlights my ability to:
+- Build and train deep learning models.
+- Process and augment image data for improved model generalization.
+- Apply data science techniques to solve real-world problems.
+
+It demonstrates the skills and methodologies I can bring to a Data Scientist role.
+
+## 7. Contact
+For inquiries, feel free to reach out:  
+**Paras Jamkar**  
+- **Email**: paras.jamkar@gmail.com  
+- **LinkedIn**: [linkedin.com/in/paras-jamkar-a9333899/](https://www.linkedin.com/in/paras-jamkar-a9333899/)
+
 ## 5. How to Run the Project
 ```bash
 # Clone the repository
@@ -32,19 +46,4 @@ cd cifar10-classification
 pip install -r requirements.txt
 
 # Run the classifier
-python cifar10_classifier.py'''
-
-6. Why This Project?
-This project highlights my ability to:
-
-Build and train deep learning models.
-Process and augment image data for improved model generalization.
-Apply data science techniques to solve real-world problems.
-It demonstrates the skills and methodologies I can bring to a Data Scientist role.
-
-7. Contact
-For inquiries, feel free to reach out:
-Paras Jamkar
-
-Email: paras.jamkar@gmail.com
-LinkedIn: linkedin.com/in/paras-jamkar-a9333899/
+python cifar10_classifier.py
