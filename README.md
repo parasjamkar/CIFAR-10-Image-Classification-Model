@@ -34,8 +34,6 @@ pip install -r requirements.txt
 # Run the classifier
 python cifar10_classifier.py
 
-Training/validation accuracy and loss visualizations will be displayed.
-Example predictions and grids of sample images can also be viewed.
 6. Why This Project?
 This project highlights my ability to:
 
