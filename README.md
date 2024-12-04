@@ -19,6 +19,7 @@ Results
 Final Test Accuracy: 66.75%
 Validation Loss and Accuracy curves illustrate steady improvement over epochs.
 The model effectively classified 10 distinct categories from the dataset.
+
 How to Run the Project
 1. Clone the Repository
 bash
