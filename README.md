@@ -36,6 +36,7 @@ python cifar10_classifier.py
 4. View Results
 Visualizations of training/validation accuracy and loss will be displayed.
 Example predictions and grid of sample images can be viewed.
+
 Why This Project?
 This project highlights my ability to:
 
