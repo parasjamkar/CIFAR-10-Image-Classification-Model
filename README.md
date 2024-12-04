@@ -1,5 +1,5 @@
 # CIFAR-10 Image Classification with CNNs
-This project demonstrates my skills in deep learning and image classification by building a Convolutional Neural Network (CNN) to classify CIFAR-10 images into 10 categories. It showcases my proficiency in Python, TensorFlow, and data preprocessing techniques—key skills relevant to a Data Scientist role.
+This project demonstrates my skills in deep learning and image classification by building a Convolutional Neural Network (CNN) to classify CIFAR-10 images into 10 categories. It showcases my proficiency in Python, TensorFlow, and data preprocessing techniques, which are key skills relevant to a Data Scientist role.
 
 ## 1. Objective
 To classify images from the CIFAR-10 dataset into categories such as:  
