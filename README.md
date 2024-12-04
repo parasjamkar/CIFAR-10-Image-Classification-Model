@@ -32,7 +32,7 @@ cd cifar10-classification
 pip install -r requirements.txt
 
 # Run the classifier
-python cifar10_classifier.py
+python cifar10_classifier.py'''
 
 6. Why This Project?
 This project highlights my ability to:
