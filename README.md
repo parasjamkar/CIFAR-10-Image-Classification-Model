@@ -39,8 +39,8 @@ For inquiries, feel free to reach out:
 ## 7. How to Run the Project
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/cifar10-classification
-cd cifar10-classification
+git clone https://github.com/parasjamkar/Cifar10-Image-Classification-Model
+cd Cifar10-Image-Classification-Model
 
 # Install dependencies
 pip install -r requirements.txt
