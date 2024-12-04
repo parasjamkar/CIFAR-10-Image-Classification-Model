@@ -12,32 +12,24 @@ Airplanes, Cars, Birds, Cats, Deer, Dogs, Frogs, Horses, Ships, and Trucks.
 - **Model Performance**: Achieved a test accuracy of **66.75%**, demonstrating robust learning.
 
 ## 3. Skills Demonstrated
-### a. Programming Languages:
-- Python (TensorFlow, NumPy, Matplotlib)
-
-### b. Deep Learning Techniques:
-- Convolutional Neural Networks (CNNs)
-- Data Augmentation
-- Optimization
-
-### c. Data Visualization:
-- Plotted metrics to evaluate and improve model performance
-
-### d. Tools and Libraries:
-- TensorFlow, Scikit-image, Matplotlib
+- **Programming Languages**: Python (TensorFlow, NumPy, Matplotlib)
+- **Deep Learning Techniques**: Convolutional Neural Networks (CNNs), Data Augmentation, Optimization
+- **Data Visualization**: Plotted metrics to evaluate and improve model performance
+- **Tools and Libraries**: TensorFlow, Scikit-image, Matplotlib
 
 ## 4. Results
-1. **Final Test Accuracy**: 66.75%
-2. **Validation Metrics**: Loss and Accuracy curves show steady improvement over epochs.
-3. **Model Effectiveness**: Successfully classified 10 distinct categories from the dataset.
+- **Final Test Accuracy**: 66.75%
+- **Validation Metrics**: Loss and Accuracy curves show steady improvement over epochs.
+- **Model Effectiveness**: Successfully classified 10 distinct categories from the dataset.
 
 ## 5. How to Run the Project
-
-### Step 1: Clone the Repository
 ```bash
+# Clone the repository
 git clone https://github.com/your-username/cifar10-classification
 cd cifar10-classification
-Step 2: Install Dependencies
+
+# Install dependencies
 pip install -r requirements.txt
-Step 3: Run the Classifier
+
+# Run the classifier
 python cifar10_classifier.py
