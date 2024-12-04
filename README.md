@@ -39,11 +39,11 @@ For inquiries, feel free to reach out:
 ## 7. How to Run the Project
 ```bash
 # Clone the repository
-git clone https://github.com/parasjamkar/Cifar10-Image-Classification-Model
-cd Cifar10-Image-Classification-Model
+git clone https://github.com/parasjamkar/CIFAR-10-Image-Classification-Model.git
+cd CIFAR-10-Image-Classification-Model
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the classifier
-python cifar10_classifier.py
+# Launch Jupyter Notebook
+jupyter notebook Image_Classification_with_CIFAR_10.ipynb
